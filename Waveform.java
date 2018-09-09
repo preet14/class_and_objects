@@ -35,7 +35,7 @@ class t1
           }
        }
      }
-      for(i=0;i<7;i=i+2)
+      for(i=0;i<=8;i=i+2)
       {
          t=a[i+1];
          a[i+1]=a[i];
